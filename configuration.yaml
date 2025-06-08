@@ -1,0 +1,17 @@
+
+default_config:
+
+http:
+  server_port: 8123
+
+homeassistant:
+  name: GPT Smart Home
+  latitude: 50.4501
+  longitude: 30.5234
+  elevation: 180
+  unit_system: metric
+  currency: UAH
+  country: UA
+
+logger:
+  default: info
